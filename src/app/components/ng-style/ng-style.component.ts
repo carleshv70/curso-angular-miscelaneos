@@ -10,7 +10,7 @@ import { Component, OnInit } from '@angular/core';
     </p>
 
     <button class="btn btn-primary" (click)="tamano=tamano+5">
-<i class="fa fa-plus" aria-hidden="true"></i>
+<i class="fas fa-plus" aria-hidden="true"></i>
     </button>
 
     <button class="btn btn-primary" (click)="tamano=tamano-5">
